@@ -10,7 +10,7 @@ void main()
     for (int i = 0; i < size; i++)
     {
         scanf("%d", &arr[i]);
-        count[i] = 1; // Initialize count array with zeros
+        count[i] = 1;
     }
 
     for (int i = 0; i < size; i++)
